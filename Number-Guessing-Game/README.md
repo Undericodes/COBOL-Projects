@@ -43,9 +43,15 @@ This project implements a simple number guessing game using COBOL. The game gene
 ## Example
 
 Enter a number between 1 and 100:
+
 50
+
 Too low! Try again:
+
 75
+
 Too high! Try again:
+
 62
+
 Correct! You guessed the number in 3 attempts.
